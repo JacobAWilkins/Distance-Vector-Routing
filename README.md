@@ -1,5 +1,9 @@
 # Distance-Vector-Routing
 
+Author: Jacob Wilkins
+
+Language: Java
+
 ### Compilation:
 
 javac DistV ec.java
