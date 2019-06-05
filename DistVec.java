@@ -1,4 +1,24 @@
-// Author: Jacob Wilkins
+/*H****************************************************************
+* FILENAME :        DistVec.java
+*
+* DESCRIPTION :
+*       Calculates the distance vecoter table for a network
+*
+* FUNCTIONS :
+*       void     distVecCalc( int, Vector<Integer>, Boolean )
+*       Boolean  updateTable( int, int )
+*       void     tableSetup( int )
+*       void     printTable( int, Vector<Integer> )
+*
+* NOTES :
+*       These functions setup the initial distance table
+*       and updates it when links are changed.
+*
+*       Copyright 2019, Jacob Wilkins.  All rights reserved.
+* 
+* AUTHOR :    Jacob Wilkins        START DATE :    12 Apr 19
+*
+*H*/
 
 import java.io.*;
 import java.util.*;
